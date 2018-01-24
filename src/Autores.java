@@ -8,10 +8,8 @@ public class Autores {
 		
 		String ultimaPalavra = palavras[palavras.length - 1].toUpperCase();
 		
-		if (palavras.length == 2 ) {			
-			
-			return (ultimaPalavra + ", Master " + primeiraPalavra);
-		
+		if (palavras.length == 2 ) {
+			return (ultimaPalavra + ", Mais uma alteração aqui " + primeiraPalavra);
 		}else {
 			String outrasPalavra = "";
 			
