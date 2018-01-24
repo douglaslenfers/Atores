@@ -10,7 +10,7 @@ public class Autores {
 		
 		if (palavras.length == 2 ) {			
 			
-			return (ultimaPalavra + ", " + primeiraPalavra);
+			return (ultimaPalavra + ", Master " + primeiraPalavra);
 		
 		}else {
 			String outrasPalavra = "";
