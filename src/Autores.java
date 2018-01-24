@@ -9,7 +9,7 @@ public class Autores {
 		String ultimaPalavra = palavras[palavras.length - 1].toUpperCase();
 		
 		if (palavras.length == 2 ) {
-			return (ultimaPalavra + ", " + primeiraPalavra);
+			return (ultimaPalavra + ", Testando " + primeiraPalavra);
 		}else {
 			String outrasPalavra = "";
 			
